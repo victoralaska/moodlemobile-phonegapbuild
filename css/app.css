@@ -104,16 +104,16 @@ $dark:                            #444 !default;
   content: "\f30f"; }
 
 .ion-android-arrow-up:before {
-  content: "\f366"; }
+  content: "\008C23"; }
 
 .ion-android-attach:before {
-  content: "\f367"; }
+  content: "\008C26"; }
 
 .ion-android-bar:before {
-  content: "\f368"; }
+  content: "\008C23"; }
 
 .ion-android-bicycle:before {
-  content: "\f369"; }
+  content: "\008C24"; }
 
 .ion-android-boat:before {
   content: "\f36a"; }
@@ -410,31 +410,31 @@ $dark:                            #444 !default;
   content: "\f3b5"; }
 
 .ion-android-upload:before {
-  content: "\f3b6"; }
+  content: "\008C23"; }
 
 .ion-android-volume-down:before {
-  content: "\f3b7"; }
+  content: "\008C23"; }
 
 .ion-android-volume-mute:before {
-  content: "\f3b8"; }
+  content: "\008C23"; }
 
 .ion-android-volume-off:before {
-  content: "\f3b9"; }
+  content: "\008C23"; }
 
 .ion-android-volume-up:before {
-  content: "\f3ba"; }
+  content: "\008C23"; }
 
 .ion-android-walk:before {
-  content: "\f3bb"; }
+  content: "\008C23"; }
 
 .ion-android-warning:before {
-  content: "\f3bc"; }
+  content: "\008C23"; }
 
 .ion-android-watch:before {
-  content: "\f3bd"; }
+  content: "\008C23"; }
 
 .ion-android-wifi:before {
-  content: "\f305"; }
+  content: "\008C23"; }
 
 .ion-aperture:before {
   content: "\f313"; }
