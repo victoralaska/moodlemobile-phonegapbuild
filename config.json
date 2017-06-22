@@ -9,7 +9,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://52.10.56.207/",
+    "presets" : {"url": "http://52.41.23.230", "username": ""},
+    "siteurl": "http://52.10.56.207",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
