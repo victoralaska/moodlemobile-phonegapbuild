@@ -9,6 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "customurlscheme": "moodlemobile",
+    "presets" : {"url": "http://52.41.23.230/login/index.php", "username": ""},
     "siteurl": "http://52.41.23.230/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
