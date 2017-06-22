@@ -9,8 +9,9 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "customurlscheme": "moodlemobile",
+    "demo_sites": {},
     "presets" : {"url": "http://lms.odel.uniport.edu.ng/login/index.php", "username": ""},
-    "siteurl": "http://lms.odel.uniport.edu.ng/login/index.php",
+    "siteurl": "http://lms.odel.uniport.edu.ng/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
